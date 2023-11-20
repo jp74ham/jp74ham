@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jp74ham
+- 👋 Hi, I’m Jessica Pham
 - 👀 I’m interested in back and front end webdevelopment and game development
 - 🌱 I’m currently learning database systems
 - 💞️ I’m looking to collaborate on ...
