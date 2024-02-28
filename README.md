@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jessica Pham
-- 👀 I’m interested in back and front end webdevelopment and game development
-- 🌱 I’m currently learning database systems
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in using code to share stories and connect people in meaningful ways such as in game dev and meditech.
+- 🌱 I’m currently learning front end web development
+- 💞️ I’m looking to collaborate on game dev projects
 - 📫 How to reach me
       insta: @jp.aye
       email: jp74ham@gmail.com
