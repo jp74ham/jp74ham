@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jessica Pham
-- 👀 I’m interested in using code to share stories and connect people in meaningful ways such as in game dev and meditech.
+- 👀 I’m interested in using code to share stories and connect people in meaningful ways such as in game dev
 - 🌱 I’m currently learning cloud programming and data science
 - 💞️ I’m looking to collaborate on game dev projects
 - 📫 How to reach me
